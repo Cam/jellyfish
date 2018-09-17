@@ -16,11 +16,12 @@ body{
 	background: -moz-linear-gradient(center bottom, #2d445b 0%,#b2cbfe 100%);
 	background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #2d445b),color-stop(1, #b2cbfe)); */
 
-  background: rgb(17,3,55);
-  background: -moz-linear-gradient(0deg, rgba(17,3,55,1) 0%, rgba(13,59,69,1) 100%);
-  background: -webkit-linear-gradient(0deg, rgba(17,3,55,1) 0%, rgba(13,59,69,1) 100%);
-  background: linear-gradient(0deg, rgba(17,3,55,1) 0%, rgba(13,59,69,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#110337",endColorstr="#0d3b45",GradientType=1);
+
+  background: rgb(10,2,31);
+  background: -moz-linear-gradient(0deg, rgba(10,2,31,1) 0%, rgba(3,26,31,1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(10,2,31,1) 0%, rgba(3,26,31,1) 100%);
+  background: linear-gradient(0deg, rgba(10,2,31,1) 0%, rgba(3,26,31,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0a021f",endColorstr="#031a1f",GradientType=1);
 
 }
 
